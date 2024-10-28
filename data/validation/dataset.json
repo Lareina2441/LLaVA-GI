@@ -1,0 +1,4510 @@
+[
+    {
+        "id": "cla820gl0s3nv071u4fgd7xgq",
+        "image": "cla820gl0s3nv071u4fgd7xgq.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Are there any abnormalities in the image? Check all that are present."
+            },
+            {
+                "from": "gpt",
+                "value": "ulcerative colitis"
+            }
+        ]
+    },
+    {
+        "id": "cla820gl0s3nv071u4fgd7xgq",
+        "image": "cla820gl0s3nv071u4fgd7xgq.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Are there any anatomical landmarks in the image? Check all that are present."
+            },
+            {
+                "from": "gpt",
+                "value": "none"
+            }
+        ]
+    },
+    {
+        "id": "cla820gl0s3nv071u4fgd7xgq",
+        "image": "cla820gl0s3nv071u4fgd7xgq.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Are there any instruments in the image? Check all that are present."
+            },
+            {
+                "from": "gpt",
+                "value": "none"
+            }
+        ]
+    },
+    {
+        "id": "cla820gl0s3nv071u4fgd7xgq",
+        "image": "cla820gl0s3nv071u4fgd7xgq.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Have all polyps been removed?"
+            },
+            {
+                "from": "gpt",
+                "value": "not relevant"
+            }
+        ]
+    },
+    {
+        "id": "cla820gl0s3nv071u4fgd7xgq",
+        "image": "cla820gl0s3nv071u4fgd7xgq.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Is this finding easy to detect?"
+            },
+            {
+                "from": "gpt",
+                "value": "yes"
+            }
+        ]
+    },
+    {
+        "id": "cla820gl0s3nv071u4fgd7xgq",
+        "image": "cla820gl0s3nv071u4fgd7xgq.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Is there a green/black box artefact?"
+            },
+            {
+                "from": "gpt",
+                "value": "no"
+            }
+        ]
+    },
+    {
+        "id": "cla820gl0s3nv071u4fgd7xgq",
+        "image": "cla820gl0s3nv071u4fgd7xgq.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Is there text?"
+            },
+            {
+                "from": "gpt",
+                "value": "yes"
+            }
+        ]
+    },
+    {
+        "id": "cla820gl0s3nv071u4fgd7xgq",
+        "image": "cla820gl0s3nv071u4fgd7xgq.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What type of polyp is present?"
+            },
+            {
+                "from": "gpt",
+                "value": "none"
+            }
+        ]
+    },
+    {
+        "id": "cla820gl0s3nv071u4fgd7xgq",
+        "image": "cla820gl0s3nv071u4fgd7xgq.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What type of procedure is the image taken from?"
+            },
+            {
+                "from": "gpt",
+                "value": "colonoscopy"
+            }
+        ]
+    },
+    {
+        "id": "cla820gl0s3nv071u4fgd7xgq",
+        "image": "cla820gl0s3nv071u4fgd7xgq.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is the size of the polyp?"
+            },
+            {
+                "from": "gpt",
+                "value": "none"
+            }
+        ]
+    },
+    {
+        "id": "cla820gl0s3nv071u4fgd7xgq",
+        "image": "cla820gl0s3nv071u4fgd7xgq.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "How many findings are present?"
+            },
+            {
+                "from": "gpt",
+                "value": "1"
+            }
+        ]
+    },
+    {
+        "id": "cla820gl0s3nv071u4fgd7xgq",
+        "image": "cla820gl0s3nv071u4fgd7xgq.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "How many polyps are in the image?"
+            },
+            {
+                "from": "gpt",
+                "value": "0"
+            }
+        ]
+    },
+    {
+        "id": "cla820gl0s3nv071u4fgd7xgq",
+        "image": "cla820gl0s3nv071u4fgd7xgq.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Where in the image is the instrument?"
+            },
+            {
+                "from": "gpt",
+                "value": "none"
+            }
+        ]
+    },
+    {
+        "id": "cla820gl0s3nv071u4fgd7xgq",
+        "image": "cla820gl0s3nv071u4fgd7xgq.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Where in the image is the abnormality?"
+            },
+            {
+                "from": "gpt",
+                "value": "center; center-left; center-right; lower-center; lower-left; lower-right; upper-center; upper-left; upper-right"
+            }
+        ]
+    },
+    {
+        "id": "cla820gl0s3nv071u4fgd7xgq",
+        "image": "cla820gl0s3nv071u4fgd7xgq.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Where in the image is the anatomical landmark?"
+            },
+            {
+                "from": "gpt",
+                "value": "none"
+            }
+        ]
+    },
+    {
+        "id": "cla820gl0s3nv071u4fgd7xgq",
+        "image": "cla820gl0s3nv071u4fgd7xgq.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "How many instrumnets are in the image?"
+            },
+            {
+                "from": "gpt",
+                "value": "0"
+            }
+        ]
+    },
+    {
+        "id": "cla820gl0s3nv071u4fgd7xgq",
+        "image": "cla820gl0s3nv071u4fgd7xgq.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What color is the abnormality? If more than one separate with ;"
+            },
+            {
+                "from": "gpt",
+                "value": "pink; red"
+            }
+        ]
+    },
+    {
+        "id": "cla820gl0s3nz071uch6e0sas",
+        "image": "cla820gl0s3nz071uch6e0sas.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Is there text?"
+            },
+            {
+                "from": "gpt",
+                "value": "yes"
+            }
+        ]
+    },
+    {
+        "id": "cla820gl0s3nz071uch6e0sas",
+        "image": "cla820gl0s3nz071uch6e0sas.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Are there any instruments in the image? Check all that are present."
+            },
+            {
+                "from": "gpt",
+                "value": "none"
+            }
+        ]
+    },
+    {
+        "id": "cla820gl0s3nz071uch6e0sas",
+        "image": "cla820gl0s3nz071uch6e0sas.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Where in the image is the anatomical landmark?"
+            },
+            {
+                "from": "gpt",
+                "value": "none"
+            }
+        ]
+    },
+    {
+        "id": "cla820gl0s3nz071uch6e0sas",
+        "image": "cla820gl0s3nz071uch6e0sas.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Is there a green/black box artefact?"
+            },
+            {
+                "from": "gpt",
+                "value": "yes"
+            }
+        ]
+    },
+    {
+        "id": "cla820gl0s3nz071uch6e0sas",
+        "image": "cla820gl0s3nz071uch6e0sas.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What color is the abnormality? If more than one separate with ;"
+            },
+            {
+                "from": "gpt",
+                "value": "pink; red; white"
+            }
+        ]
+    },
+    {
+        "id": "cla820gl0s3nz071uch6e0sas",
+        "image": "cla820gl0s3nz071uch6e0sas.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What type of polyp is present?"
+            },
+            {
+                "from": "gpt",
+                "value": "none"
+            }
+        ]
+    },
+    {
+        "id": "cla820gl0s3nz071uch6e0sas",
+        "image": "cla820gl0s3nz071uch6e0sas.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Where in the image is the instrument?"
+            },
+            {
+                "from": "gpt",
+                "value": "none"
+            }
+        ]
+    },
+    {
+        "id": "cla820gl0s3nz071uch6e0sas",
+        "image": "cla820gl0s3nz071uch6e0sas.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Is this finding easy to detect?"
+            },
+            {
+                "from": "gpt",
+                "value": "no"
+            }
+        ]
+    },
+    {
+        "id": "cla820gl0s3nz071uch6e0sas",
+        "image": "cla820gl0s3nz071uch6e0sas.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is the size of the polyp?"
+            },
+            {
+                "from": "gpt",
+                "value": "none"
+            }
+        ]
+    },
+    {
+        "id": "cla820gl0s3nz071uch6e0sas",
+        "image": "cla820gl0s3nz071uch6e0sas.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "How many instrumnets are in the image?"
+            },
+            {
+                "from": "gpt",
+                "value": "0"
+            }
+        ]
+    },
+    {
+        "id": "cla820gl0s3nz071uch6e0sas",
+        "image": "cla820gl0s3nz071uch6e0sas.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "How many findings are present?"
+            },
+            {
+                "from": "gpt",
+                "value": "1"
+            }
+        ]
+    },
+    {
+        "id": "cla820gl0s3nz071uch6e0sas",
+        "image": "cla820gl0s3nz071uch6e0sas.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Are there any anatomical landmarks in the image? Check all that are present."
+            },
+            {
+                "from": "gpt",
+                "value": "none"
+            }
+        ]
+    },
+    {
+        "id": "cla820gl0s3nz071uch6e0sas",
+        "image": "cla820gl0s3nz071uch6e0sas.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Are there any abnormalities in the image? Check all that are present."
+            },
+            {
+                "from": "gpt",
+                "value": "ulcerative colitis"
+            }
+        ]
+    },
+    {
+        "id": "cla820gl0s3nz071uch6e0sas",
+        "image": "cla820gl0s3nz071uch6e0sas.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What type of procedure is the image taken from?"
+            },
+            {
+                "from": "gpt",
+                "value": "colonoscopy"
+            }
+        ]
+    },
+    {
+        "id": "cla820gl0s3nz071uch6e0sas",
+        "image": "cla820gl0s3nz071uch6e0sas.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "How many polyps are in the image?"
+            },
+            {
+                "from": "gpt",
+                "value": "0"
+            }
+        ]
+    },
+    {
+        "id": "cla820gl0s3nz071uch6e0sas",
+        "image": "cla820gl0s3nz071uch6e0sas.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Have all polyps been removed?"
+            },
+            {
+                "from": "gpt",
+                "value": "not relevant"
+            }
+        ]
+    },
+    {
+        "id": "cla820gl0s3nz071uch6e0sas",
+        "image": "cla820gl0s3nz071uch6e0sas.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Where in the image is the abnormality?"
+            },
+            {
+                "from": "gpt",
+                "value": "center; center-left; center-right; lower-center; lower-left; lower-right; upper-center; upper-left; upper-right"
+            }
+        ]
+    },
+    {
+        "id": "cla820gl0s3o3071ufxqh1brg",
+        "image": "cla820gl0s3o3071ufxqh1brg.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Is there text?"
+            },
+            {
+                "from": "gpt",
+                "value": "yes"
+            }
+        ]
+    },
+    {
+        "id": "cla820gl0s3o3071ufxqh1brg",
+        "image": "cla820gl0s3o3071ufxqh1brg.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is the size of the polyp?"
+            },
+            {
+                "from": "gpt",
+                "value": "none"
+            }
+        ]
+    },
+    {
+        "id": "cla820gl0s3o3071ufxqh1brg",
+        "image": "cla820gl0s3o3071ufxqh1brg.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What color is the abnormality? If more than one separate with ;"
+            },
+            {
+                "from": "gpt",
+                "value": "pink; red"
+            }
+        ]
+    },
+    {
+        "id": "cla820gl0s3o3071ufxqh1brg",
+        "image": "cla820gl0s3o3071ufxqh1brg.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Are there any instruments in the image? Check all that are present."
+            },
+            {
+                "from": "gpt",
+                "value": "none"
+            }
+        ]
+    },
+    {
+        "id": "cla820gl0s3o3071ufxqh1brg",
+        "image": "cla820gl0s3o3071ufxqh1brg.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Is this finding easy to detect?"
+            },
+            {
+                "from": "gpt",
+                "value": "no"
+            }
+        ]
+    },
+    {
+        "id": "cla820gl0s3o3071ufxqh1brg",
+        "image": "cla820gl0s3o3071ufxqh1brg.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Are there any abnormalities in the image? Check all that are present."
+            },
+            {
+                "from": "gpt",
+                "value": "ulcerative colitis"
+            }
+        ]
+    },
+    {
+        "id": "cla820gl0s3o3071ufxqh1brg",
+        "image": "cla820gl0s3o3071ufxqh1brg.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Have all polyps been removed?"
+            },
+            {
+                "from": "gpt",
+                "value": "not relevant"
+            }
+        ]
+    },
+    {
+        "id": "cla820gl0s3o3071ufxqh1brg",
+        "image": "cla820gl0s3o3071ufxqh1brg.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What type of procedure is the image taken from?"
+            },
+            {
+                "from": "gpt",
+                "value": "colonoscopy"
+            }
+        ]
+    },
+    {
+        "id": "cla820gl0s3o3071ufxqh1brg",
+        "image": "cla820gl0s3o3071ufxqh1brg.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "How many polyps are in the image?"
+            },
+            {
+                "from": "gpt",
+                "value": "0"
+            }
+        ]
+    },
+    {
+        "id": "cla820gl0s3o3071ufxqh1brg",
+        "image": "cla820gl0s3o3071ufxqh1brg.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "How many instrumnets are in the image?"
+            },
+            {
+                "from": "gpt",
+                "value": "0"
+            }
+        ]
+    },
+    {
+        "id": "cla820gl0s3o3071ufxqh1brg",
+        "image": "cla820gl0s3o3071ufxqh1brg.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What type of polyp is present?"
+            },
+            {
+                "from": "gpt",
+                "value": "none"
+            }
+        ]
+    },
+    {
+        "id": "cla820gl0s3o3071ufxqh1brg",
+        "image": "cla820gl0s3o3071ufxqh1brg.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Where in the image is the abnormality?"
+            },
+            {
+                "from": "gpt",
+                "value": "center; center-left; center-right; lower-center; lower-left; lower-right; upper-center; upper-left; upper-right"
+            }
+        ]
+    },
+    {
+        "id": "cla820gl0s3o3071ufxqh1brg",
+        "image": "cla820gl0s3o3071ufxqh1brg.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "How many findings are present?"
+            },
+            {
+                "from": "gpt",
+                "value": "1"
+            }
+        ]
+    },
+    {
+        "id": "cla820gl0s3o3071ufxqh1brg",
+        "image": "cla820gl0s3o3071ufxqh1brg.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Where in the image is the anatomical landmark?"
+            },
+            {
+                "from": "gpt",
+                "value": "none"
+            }
+        ]
+    },
+    {
+        "id": "cla820gl0s3o3071ufxqh1brg",
+        "image": "cla820gl0s3o3071ufxqh1brg.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Are there any anatomical landmarks in the image? Check all that are present."
+            },
+            {
+                "from": "gpt",
+                "value": "none"
+            }
+        ]
+    },
+    {
+        "id": "cla820gl0s3o3071ufxqh1brg",
+        "image": "cla820gl0s3o3071ufxqh1brg.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Is there a green/black box artefact?"
+            },
+            {
+                "from": "gpt",
+                "value": "no"
+            }
+        ]
+    },
+    {
+        "id": "cla820gl0s3o3071ufxqh1brg",
+        "image": "cla820gl0s3o3071ufxqh1brg.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Where in the image is the instrument?"
+            },
+            {
+                "from": "gpt",
+                "value": "none"
+            }
+        ]
+    },
+    {
+        "id": "cla820gl0s3o7071u4ouwcitb",
+        "image": "cla820gl0s3o7071u4ouwcitb.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "How many findings are present?"
+            },
+            {
+                "from": "gpt",
+                "value": "1"
+            }
+        ]
+    },
+    {
+        "id": "cla820gl0s3o7071u4ouwcitb",
+        "image": "cla820gl0s3o7071u4ouwcitb.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "How many instrumnets are in the image?"
+            },
+            {
+                "from": "gpt",
+                "value": "0"
+            }
+        ]
+    },
+    {
+        "id": "cla820gl0s3o7071u4ouwcitb",
+        "image": "cla820gl0s3o7071u4ouwcitb.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Is there text?"
+            },
+            {
+                "from": "gpt",
+                "value": "yes"
+            }
+        ]
+    },
+    {
+        "id": "cla820gl0s3o7071u4ouwcitb",
+        "image": "cla820gl0s3o7071u4ouwcitb.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What type of polyp is present?"
+            },
+            {
+                "from": "gpt",
+                "value": "none"
+            }
+        ]
+    },
+    {
+        "id": "cla820gl0s3o7071u4ouwcitb",
+        "image": "cla820gl0s3o7071u4ouwcitb.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Is this finding easy to detect?"
+            },
+            {
+                "from": "gpt",
+                "value": "yes"
+            }
+        ]
+    },
+    {
+        "id": "cla820gl0s3o7071u4ouwcitb",
+        "image": "cla820gl0s3o7071u4ouwcitb.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Are there any instruments in the image? Check all that are present."
+            },
+            {
+                "from": "gpt",
+                "value": "none"
+            }
+        ]
+    },
+    {
+        "id": "cla820gl0s3o7071u4ouwcitb",
+        "image": "cla820gl0s3o7071u4ouwcitb.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "How many polyps are in the image?"
+            },
+            {
+                "from": "gpt",
+                "value": "0"
+            }
+        ]
+    },
+    {
+        "id": "cla820gl0s3o7071u4ouwcitb",
+        "image": "cla820gl0s3o7071u4ouwcitb.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Is there a green/black box artefact?"
+            },
+            {
+                "from": "gpt",
+                "value": "no"
+            }
+        ]
+    },
+    {
+        "id": "cla820gl0s3o7071u4ouwcitb",
+        "image": "cla820gl0s3o7071u4ouwcitb.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Are there any abnormalities in the image? Check all that are present."
+            },
+            {
+                "from": "gpt",
+                "value": "ulcerative colitis"
+            }
+        ]
+    },
+    {
+        "id": "cla820gl0s3o7071u4ouwcitb",
+        "image": "cla820gl0s3o7071u4ouwcitb.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Where in the image is the anatomical landmark?"
+            },
+            {
+                "from": "gpt",
+                "value": "none"
+            }
+        ]
+    },
+    {
+        "id": "cla820gl0s3o7071u4ouwcitb",
+        "image": "cla820gl0s3o7071u4ouwcitb.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Have all polyps been removed?"
+            },
+            {
+                "from": "gpt",
+                "value": "not relevant"
+            }
+        ]
+    },
+    {
+        "id": "cla820gl0s3o7071u4ouwcitb",
+        "image": "cla820gl0s3o7071u4ouwcitb.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What type of procedure is the image taken from?"
+            },
+            {
+                "from": "gpt",
+                "value": "colonoscopy"
+            }
+        ]
+    },
+    {
+        "id": "cla820gl0s3o7071u4ouwcitb",
+        "image": "cla820gl0s3o7071u4ouwcitb.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Where in the image is the instrument?"
+            },
+            {
+                "from": "gpt",
+                "value": "none"
+            }
+        ]
+    },
+    {
+        "id": "cla820gl0s3o7071u4ouwcitb",
+        "image": "cla820gl0s3o7071u4ouwcitb.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is the size of the polyp?"
+            },
+            {
+                "from": "gpt",
+                "value": "none"
+            }
+        ]
+    },
+    {
+        "id": "cla820gl0s3o7071u4ouwcitb",
+        "image": "cla820gl0s3o7071u4ouwcitb.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Are there any anatomical landmarks in the image? Check all that are present."
+            },
+            {
+                "from": "gpt",
+                "value": "none"
+            }
+        ]
+    },
+    {
+        "id": "cla820gl0s3o7071u4ouwcitb",
+        "image": "cla820gl0s3o7071u4ouwcitb.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Where in the image is the abnormality?"
+            },
+            {
+                "from": "gpt",
+                "value": "center; center-left; center-right; lower-center; lower-left; lower-right; upper-center; upper-left; upper-right"
+            }
+        ]
+    },
+    {
+        "id": "cla820gl0s3o7071u4ouwcitb",
+        "image": "cla820gl0s3o7071u4ouwcitb.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What color is the abnormality? If more than one separate with ;"
+            },
+            {
+                "from": "gpt",
+                "value": "pink; red"
+            }
+        ]
+    },
+    {
+        "id": "cla820gl0s3ob071u5z04bn3r",
+        "image": "cla820gl0s3ob071u5z04bn3r.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Have all polyps been removed?"
+            },
+            {
+                "from": "gpt",
+                "value": "not relevant"
+            }
+        ]
+    },
+    {
+        "id": "cla820gl0s3ob071u5z04bn3r",
+        "image": "cla820gl0s3ob071u5z04bn3r.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Is there a green/black box artefact?"
+            },
+            {
+                "from": "gpt",
+                "value": "no"
+            }
+        ]
+    },
+    {
+        "id": "cla820gl0s3ob071u5z04bn3r",
+        "image": "cla820gl0s3ob071u5z04bn3r.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Where in the image is the anatomical landmark?"
+            },
+            {
+                "from": "gpt",
+                "value": "none"
+            }
+        ]
+    },
+    {
+        "id": "cla820gl0s3ob071u5z04bn3r",
+        "image": "cla820gl0s3ob071u5z04bn3r.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Are there any abnormalities in the image? Check all that are present."
+            },
+            {
+                "from": "gpt",
+                "value": "ulcerative colitis"
+            }
+        ]
+    },
+    {
+        "id": "cla820gl0s3ob071u5z04bn3r",
+        "image": "cla820gl0s3ob071u5z04bn3r.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What type of polyp is present?"
+            },
+            {
+                "from": "gpt",
+                "value": "none"
+            }
+        ]
+    },
+    {
+        "id": "cla820gl0s3ob071u5z04bn3r",
+        "image": "cla820gl0s3ob071u5z04bn3r.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What type of procedure is the image taken from?"
+            },
+            {
+                "from": "gpt",
+                "value": "colonoscopy"
+            }
+        ]
+    },
+    {
+        "id": "cla820gl0s3ob071u5z04bn3r",
+        "image": "cla820gl0s3ob071u5z04bn3r.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Are there any anatomical landmarks in the image? Check all that are present."
+            },
+            {
+                "from": "gpt",
+                "value": "none"
+            }
+        ]
+    },
+    {
+        "id": "cla820gl0s3ob071u5z04bn3r",
+        "image": "cla820gl0s3ob071u5z04bn3r.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "How many findings are present?"
+            },
+            {
+                "from": "gpt",
+                "value": "1"
+            }
+        ]
+    },
+    {
+        "id": "cla820gl0s3ob071u5z04bn3r",
+        "image": "cla820gl0s3ob071u5z04bn3r.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Where in the image is the abnormality?"
+            },
+            {
+                "from": "gpt",
+                "value": "center; center-left; center-right; lower-center; lower-left; lower-right; upper-center; upper-left; upper-right"
+            }
+        ]
+    },
+    {
+        "id": "cla820gl0s3ob071u5z04bn3r",
+        "image": "cla820gl0s3ob071u5z04bn3r.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Where in the image is the instrument?"
+            },
+            {
+                "from": "gpt",
+                "value": "none"
+            }
+        ]
+    },
+    {
+        "id": "cla820gl0s3ob071u5z04bn3r",
+        "image": "cla820gl0s3ob071u5z04bn3r.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Are there any instruments in the image? Check all that are present."
+            },
+            {
+                "from": "gpt",
+                "value": "none"
+            }
+        ]
+    },
+    {
+        "id": "cla820gl0s3ob071u5z04bn3r",
+        "image": "cla820gl0s3ob071u5z04bn3r.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Is this finding easy to detect?"
+            },
+            {
+                "from": "gpt",
+                "value": "no"
+            }
+        ]
+    },
+    {
+        "id": "cla820gl0s3ob071u5z04bn3r",
+        "image": "cla820gl0s3ob071u5z04bn3r.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is the size of the polyp?"
+            },
+            {
+                "from": "gpt",
+                "value": "none"
+            }
+        ]
+    },
+    {
+        "id": "cla820gl0s3ob071u5z04bn3r",
+        "image": "cla820gl0s3ob071u5z04bn3r.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What color is the abnormality? If more than one separate with ;"
+            },
+            {
+                "from": "gpt",
+                "value": "pink; red"
+            }
+        ]
+    },
+    {
+        "id": "cla820gl0s3ob071u5z04bn3r",
+        "image": "cla820gl0s3ob071u5z04bn3r.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "How many instrumnets are in the image?"
+            },
+            {
+                "from": "gpt",
+                "value": "0"
+            }
+        ]
+    },
+    {
+        "id": "cla820gl0s3ob071u5z04bn3r",
+        "image": "cla820gl0s3ob071u5z04bn3r.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "How many polyps are in the image?"
+            },
+            {
+                "from": "gpt",
+                "value": "0"
+            }
+        ]
+    },
+    {
+        "id": "cla820gl0s3ob071u5z04bn3r",
+        "image": "cla820gl0s3ob071u5z04bn3r.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Is there text?"
+            },
+            {
+                "from": "gpt",
+                "value": "yes"
+            }
+        ]
+    },
+    {
+        "id": "cla820gl0s3of071u96ilg9hm",
+        "image": "cla820gl0s3of071u96ilg9hm.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What type of polyp is present?"
+            },
+            {
+                "from": "gpt",
+                "value": "none"
+            }
+        ]
+    },
+    {
+        "id": "cla820gl0s3of071u96ilg9hm",
+        "image": "cla820gl0s3of071u96ilg9hm.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "How many instrumnets are in the image?"
+            },
+            {
+                "from": "gpt",
+                "value": "0"
+            }
+        ]
+    },
+    {
+        "id": "cla820gl0s3of071u96ilg9hm",
+        "image": "cla820gl0s3of071u96ilg9hm.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Where in the image is the anatomical landmark?"
+            },
+            {
+                "from": "gpt",
+                "value": "none"
+            }
+        ]
+    },
+    {
+        "id": "cla820gl0s3of071u96ilg9hm",
+        "image": "cla820gl0s3of071u96ilg9hm.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What type of procedure is the image taken from?"
+            },
+            {
+                "from": "gpt",
+                "value": "colonoscopy"
+            }
+        ]
+    },
+    {
+        "id": "cla820gl0s3of071u96ilg9hm",
+        "image": "cla820gl0s3of071u96ilg9hm.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Is this finding easy to detect?"
+            },
+            {
+                "from": "gpt",
+                "value": "yes"
+            }
+        ]
+    },
+    {
+        "id": "cla820gl0s3of071u96ilg9hm",
+        "image": "cla820gl0s3of071u96ilg9hm.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Are there any abnormalities in the image? Check all that are present."
+            },
+            {
+                "from": "gpt",
+                "value": "ulcerative colitis"
+            }
+        ]
+    },
+    {
+        "id": "cla820gl0s3of071u96ilg9hm",
+        "image": "cla820gl0s3of071u96ilg9hm.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Where in the image is the instrument?"
+            },
+            {
+                "from": "gpt",
+                "value": "none"
+            }
+        ]
+    },
+    {
+        "id": "cla820gl0s3of071u96ilg9hm",
+        "image": "cla820gl0s3of071u96ilg9hm.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What color is the abnormality? If more than one separate with ;"
+            },
+            {
+                "from": "gpt",
+                "value": "pink; red"
+            }
+        ]
+    },
+    {
+        "id": "cla820gl0s3of071u96ilg9hm",
+        "image": "cla820gl0s3of071u96ilg9hm.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is the size of the polyp?"
+            },
+            {
+                "from": "gpt",
+                "value": "none"
+            }
+        ]
+    },
+    {
+        "id": "cla820gl0s3of071u96ilg9hm",
+        "image": "cla820gl0s3of071u96ilg9hm.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Is there text?"
+            },
+            {
+                "from": "gpt",
+                "value": "yes"
+            }
+        ]
+    },
+    {
+        "id": "cla820gl0s3of071u96ilg9hm",
+        "image": "cla820gl0s3of071u96ilg9hm.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "How many polyps are in the image?"
+            },
+            {
+                "from": "gpt",
+                "value": "0"
+            }
+        ]
+    },
+    {
+        "id": "cla820gl0s3of071u96ilg9hm",
+        "image": "cla820gl0s3of071u96ilg9hm.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "How many findings are present?"
+            },
+            {
+                "from": "gpt",
+                "value": "1"
+            }
+        ]
+    },
+    {
+        "id": "cla820gl0s3of071u96ilg9hm",
+        "image": "cla820gl0s3of071u96ilg9hm.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Are there any instruments in the image? Check all that are present."
+            },
+            {
+                "from": "gpt",
+                "value": "none"
+            }
+        ]
+    },
+    {
+        "id": "cla820gl0s3of071u96ilg9hm",
+        "image": "cla820gl0s3of071u96ilg9hm.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Have all polyps been removed?"
+            },
+            {
+                "from": "gpt",
+                "value": "not relevant"
+            }
+        ]
+    },
+    {
+        "id": "cla820gl0s3of071u96ilg9hm",
+        "image": "cla820gl0s3of071u96ilg9hm.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Are there any anatomical landmarks in the image? Check all that are present."
+            },
+            {
+                "from": "gpt",
+                "value": "none"
+            }
+        ]
+    },
+    {
+        "id": "cla820gl0s3of071u96ilg9hm",
+        "image": "cla820gl0s3of071u96ilg9hm.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Is there a green/black box artefact?"
+            },
+            {
+                "from": "gpt",
+                "value": "no"
+            }
+        ]
+    },
+    {
+        "id": "cla820gl0s3of071u96ilg9hm",
+        "image": "cla820gl0s3of071u96ilg9hm.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Where in the image is the abnormality?"
+            },
+            {
+                "from": "gpt",
+                "value": "center; center-left; center-right; lower-center; lower-left; lower-right; upper-center; upper-left; upper-right"
+            }
+        ]
+    },
+    {
+        "id": "cla820gl0s3oj071u5qln6oim",
+        "image": "cla820gl0s3oj071u5qln6oim.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What color is the abnormality? If more than one separate with ;"
+            },
+            {
+                "from": "gpt",
+                "value": "pink; red"
+            }
+        ]
+    },
+    {
+        "id": "cla820gl0s3oj071u5qln6oim",
+        "image": "cla820gl0s3oj071u5qln6oim.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is the size of the polyp?"
+            },
+            {
+                "from": "gpt",
+                "value": "none"
+            }
+        ]
+    },
+    {
+        "id": "cla820gl0s3oj071u5qln6oim",
+        "image": "cla820gl0s3oj071u5qln6oim.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Are there any instruments in the image? Check all that are present."
+            },
+            {
+                "from": "gpt",
+                "value": "none"
+            }
+        ]
+    },
+    {
+        "id": "cla820gl0s3oj071u5qln6oim",
+        "image": "cla820gl0s3oj071u5qln6oim.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Are there any abnormalities in the image? Check all that are present."
+            },
+            {
+                "from": "gpt",
+                "value": "ulcerative colitis"
+            }
+        ]
+    },
+    {
+        "id": "cla820gl0s3oj071u5qln6oim",
+        "image": "cla820gl0s3oj071u5qln6oim.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Is there a green/black box artefact?"
+            },
+            {
+                "from": "gpt",
+                "value": "no"
+            }
+        ]
+    },
+    {
+        "id": "cla820gl0s3oj071u5qln6oim",
+        "image": "cla820gl0s3oj071u5qln6oim.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Where in the image is the anatomical landmark?"
+            },
+            {
+                "from": "gpt",
+                "value": "none"
+            }
+        ]
+    },
+    {
+        "id": "cla820gl0s3oj071u5qln6oim",
+        "image": "cla820gl0s3oj071u5qln6oim.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "How many instrumnets are in the image?"
+            },
+            {
+                "from": "gpt",
+                "value": "0"
+            }
+        ]
+    },
+    {
+        "id": "cla820gl0s3oj071u5qln6oim",
+        "image": "cla820gl0s3oj071u5qln6oim.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Have all polyps been removed?"
+            },
+            {
+                "from": "gpt",
+                "value": "not relevant"
+            }
+        ]
+    },
+    {
+        "id": "cla820gl0s3oj071u5qln6oim",
+        "image": "cla820gl0s3oj071u5qln6oim.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Is there text?"
+            },
+            {
+                "from": "gpt",
+                "value": "yes"
+            }
+        ]
+    },
+    {
+        "id": "cla820gl0s3oj071u5qln6oim",
+        "image": "cla820gl0s3oj071u5qln6oim.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What type of polyp is present?"
+            },
+            {
+                "from": "gpt",
+                "value": "none"
+            }
+        ]
+    },
+    {
+        "id": "cla820gl0s3oj071u5qln6oim",
+        "image": "cla820gl0s3oj071u5qln6oim.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Where in the image is the abnormality?"
+            },
+            {
+                "from": "gpt",
+                "value": "center; center-left; center-right; lower-center; lower-left; lower-right; upper-center; upper-left; upper-right"
+            }
+        ]
+    },
+    {
+        "id": "cla820gl0s3oj071u5qln6oim",
+        "image": "cla820gl0s3oj071u5qln6oim.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "How many polyps are in the image?"
+            },
+            {
+                "from": "gpt",
+                "value": "0"
+            }
+        ]
+    },
+    {
+        "id": "cla820gl0s3oj071u5qln6oim",
+        "image": "cla820gl0s3oj071u5qln6oim.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Is this finding easy to detect?"
+            },
+            {
+                "from": "gpt",
+                "value": "yes"
+            }
+        ]
+    },
+    {
+        "id": "cla820gl0s3oj071u5qln6oim",
+        "image": "cla820gl0s3oj071u5qln6oim.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Are there any anatomical landmarks in the image? Check all that are present."
+            },
+            {
+                "from": "gpt",
+                "value": "none"
+            }
+        ]
+    },
+    {
+        "id": "cla820gl0s3oj071u5qln6oim",
+        "image": "cla820gl0s3oj071u5qln6oim.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What type of procedure is the image taken from?"
+            },
+            {
+                "from": "gpt",
+                "value": "colonoscopy"
+            }
+        ]
+    },
+    {
+        "id": "cla820gl0s3oj071u5qln6oim",
+        "image": "cla820gl0s3oj071u5qln6oim.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "How many findings are present?"
+            },
+            {
+                "from": "gpt",
+                "value": "1"
+            }
+        ]
+    },
+    {
+        "id": "cla820gl0s3oj071u5qln6oim",
+        "image": "cla820gl0s3oj071u5qln6oim.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Where in the image is the instrument?"
+            },
+            {
+                "from": "gpt",
+                "value": "none"
+            }
+        ]
+    },
+    {
+        "id": "cla820gl1s3on071u1e7gbeh0",
+        "image": "cla820gl1s3on071u1e7gbeh0.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Are there any abnormalities in the image? Check all that are present."
+            },
+            {
+                "from": "gpt",
+                "value": "ulcerative colitis"
+            }
+        ]
+    },
+    {
+        "id": "cla820gl1s3on071u1e7gbeh0",
+        "image": "cla820gl1s3on071u1e7gbeh0.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "How many polyps are in the image?"
+            },
+            {
+                "from": "gpt",
+                "value": "0"
+            }
+        ]
+    },
+    {
+        "id": "cla820gl1s3on071u1e7gbeh0",
+        "image": "cla820gl1s3on071u1e7gbeh0.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Where in the image is the anatomical landmark?"
+            },
+            {
+                "from": "gpt",
+                "value": "none"
+            }
+        ]
+    },
+    {
+        "id": "cla820gl1s3on071u1e7gbeh0",
+        "image": "cla820gl1s3on071u1e7gbeh0.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What color is the abnormality? If more than one separate with ;"
+            },
+            {
+                "from": "gpt",
+                "value": "pink; red"
+            }
+        ]
+    },
+    {
+        "id": "cla820gl1s3on071u1e7gbeh0",
+        "image": "cla820gl1s3on071u1e7gbeh0.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What type of polyp is present?"
+            },
+            {
+                "from": "gpt",
+                "value": "none"
+            }
+        ]
+    },
+    {
+        "id": "cla820gl1s3on071u1e7gbeh0",
+        "image": "cla820gl1s3on071u1e7gbeh0.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Where in the image is the abnormality?"
+            },
+            {
+                "from": "gpt",
+                "value": "center; center-left; center-right; lower-center; lower-left; lower-right; upper-center; upper-left; upper-right"
+            }
+        ]
+    },
+    {
+        "id": "cla820gl1s3on071u1e7gbeh0",
+        "image": "cla820gl1s3on071u1e7gbeh0.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Are there any anatomical landmarks in the image? Check all that are present."
+            },
+            {
+                "from": "gpt",
+                "value": "none"
+            }
+        ]
+    },
+    {
+        "id": "cla820gl1s3on071u1e7gbeh0",
+        "image": "cla820gl1s3on071u1e7gbeh0.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What type of procedure is the image taken from?"
+            },
+            {
+                "from": "gpt",
+                "value": "colonoscopy"
+            }
+        ]
+    },
+    {
+        "id": "cla820gl1s3on071u1e7gbeh0",
+        "image": "cla820gl1s3on071u1e7gbeh0.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is the size of the polyp?"
+            },
+            {
+                "from": "gpt",
+                "value": "none"
+            }
+        ]
+    },
+    {
+        "id": "cla820gl1s3on071u1e7gbeh0",
+        "image": "cla820gl1s3on071u1e7gbeh0.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Have all polyps been removed?"
+            },
+            {
+                "from": "gpt",
+                "value": "not relevant"
+            }
+        ]
+    },
+    {
+        "id": "cla820gl1s3on071u1e7gbeh0",
+        "image": "cla820gl1s3on071u1e7gbeh0.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Is this finding easy to detect?"
+            },
+            {
+                "from": "gpt",
+                "value": "yes"
+            }
+        ]
+    },
+    {
+        "id": "cla820gl1s3on071u1e7gbeh0",
+        "image": "cla820gl1s3on071u1e7gbeh0.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Where in the image is the instrument?"
+            },
+            {
+                "from": "gpt",
+                "value": "none"
+            }
+        ]
+    },
+    {
+        "id": "cla820gl1s3on071u1e7gbeh0",
+        "image": "cla820gl1s3on071u1e7gbeh0.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Is there a green/black box artefact?"
+            },
+            {
+                "from": "gpt",
+                "value": "no"
+            }
+        ]
+    },
+    {
+        "id": "cla820gl1s3on071u1e7gbeh0",
+        "image": "cla820gl1s3on071u1e7gbeh0.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "How many instrumnets are in the image?"
+            },
+            {
+                "from": "gpt",
+                "value": "0"
+            }
+        ]
+    },
+    {
+        "id": "cla820gl1s3on071u1e7gbeh0",
+        "image": "cla820gl1s3on071u1e7gbeh0.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "How many findings are present?"
+            },
+            {
+                "from": "gpt",
+                "value": "1"
+            }
+        ]
+    },
+    {
+        "id": "cla820gl1s3on071u1e7gbeh0",
+        "image": "cla820gl1s3on071u1e7gbeh0.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Are there any instruments in the image? Check all that are present."
+            },
+            {
+                "from": "gpt",
+                "value": "none"
+            }
+        ]
+    },
+    {
+        "id": "cla820gl1s3on071u1e7gbeh0",
+        "image": "cla820gl1s3on071u1e7gbeh0.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Is there text?"
+            },
+            {
+                "from": "gpt",
+                "value": "yes"
+            }
+        ]
+    },
+    {
+        "id": "cla820gl1s3or071udurk9106",
+        "image": "cla820gl1s3or071udurk9106.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "How many polyps are in the image?"
+            },
+            {
+                "from": "gpt",
+                "value": "0"
+            }
+        ]
+    },
+    {
+        "id": "cla820gl1s3or071udurk9106",
+        "image": "cla820gl1s3or071udurk9106.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Is there a green/black box artefact?"
+            },
+            {
+                "from": "gpt",
+                "value": "no"
+            }
+        ]
+    },
+    {
+        "id": "cla820gl1s3or071udurk9106",
+        "image": "cla820gl1s3or071udurk9106.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Is this finding easy to detect?"
+            },
+            {
+                "from": "gpt",
+                "value": "yes"
+            }
+        ]
+    },
+    {
+        "id": "cla820gl1s3or071udurk9106",
+        "image": "cla820gl1s3or071udurk9106.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Are there any instruments in the image? Check all that are present."
+            },
+            {
+                "from": "gpt",
+                "value": "none"
+            }
+        ]
+    },
+    {
+        "id": "cla820gl1s3or071udurk9106",
+        "image": "cla820gl1s3or071udurk9106.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Are there any abnormalities in the image? Check all that are present."
+            },
+            {
+                "from": "gpt",
+                "value": "ulcerative colitis"
+            }
+        ]
+    },
+    {
+        "id": "cla820gl1s3or071udurk9106",
+        "image": "cla820gl1s3or071udurk9106.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What type of polyp is present?"
+            },
+            {
+                "from": "gpt",
+                "value": "none"
+            }
+        ]
+    },
+    {
+        "id": "cla820gl1s3or071udurk9106",
+        "image": "cla820gl1s3or071udurk9106.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Where in the image is the abnormality?"
+            },
+            {
+                "from": "gpt",
+                "value": "center; center-left; center-right; lower-center; lower-left; lower-right; upper-center; upper-left; upper-right"
+            }
+        ]
+    },
+    {
+        "id": "cla820gl1s3or071udurk9106",
+        "image": "cla820gl1s3or071udurk9106.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Where in the image is the instrument?"
+            },
+            {
+                "from": "gpt",
+                "value": "none"
+            }
+        ]
+    },
+    {
+        "id": "cla820gl1s3or071udurk9106",
+        "image": "cla820gl1s3or071udurk9106.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is the size of the polyp?"
+            },
+            {
+                "from": "gpt",
+                "value": "none"
+            }
+        ]
+    },
+    {
+        "id": "cla820gl1s3or071udurk9106",
+        "image": "cla820gl1s3or071udurk9106.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Are there any anatomical landmarks in the image? Check all that are present."
+            },
+            {
+                "from": "gpt",
+                "value": "none"
+            }
+        ]
+    },
+    {
+        "id": "cla820gl1s3or071udurk9106",
+        "image": "cla820gl1s3or071udurk9106.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What color is the abnormality? If more than one separate with ;"
+            },
+            {
+                "from": "gpt",
+                "value": "pink; red"
+            }
+        ]
+    },
+    {
+        "id": "cla820gl1s3or071udurk9106",
+        "image": "cla820gl1s3or071udurk9106.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Where in the image is the anatomical landmark?"
+            },
+            {
+                "from": "gpt",
+                "value": "none"
+            }
+        ]
+    },
+    {
+        "id": "cla820gl1s3or071udurk9106",
+        "image": "cla820gl1s3or071udurk9106.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What type of procedure is the image taken from?"
+            },
+            {
+                "from": "gpt",
+                "value": "colonoscopy"
+            }
+        ]
+    },
+    {
+        "id": "cla820gl1s3or071udurk9106",
+        "image": "cla820gl1s3or071udurk9106.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "How many findings are present?"
+            },
+            {
+                "from": "gpt",
+                "value": "1"
+            }
+        ]
+    },
+    {
+        "id": "cla820gl1s3or071udurk9106",
+        "image": "cla820gl1s3or071udurk9106.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Is there text?"
+            },
+            {
+                "from": "gpt",
+                "value": "yes"
+            }
+        ]
+    },
+    {
+        "id": "cla820gl1s3or071udurk9106",
+        "image": "cla820gl1s3or071udurk9106.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "How many instrumnets are in the image?"
+            },
+            {
+                "from": "gpt",
+                "value": "0"
+            }
+        ]
+    },
+    {
+        "id": "cla820gl1s3or071udurk9106",
+        "image": "cla820gl1s3or071udurk9106.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Have all polyps been removed?"
+            },
+            {
+                "from": "gpt",
+                "value": "not relevant"
+            }
+        ]
+    },
+    {
+        "id": "cla820gl1s3ov071u2b7h3r59",
+        "image": "cla820gl1s3ov071u2b7h3r59.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What type of polyp is present?"
+            },
+            {
+                "from": "gpt",
+                "value": "none"
+            }
+        ]
+    },
+    {
+        "id": "cla820gl1s3ov071u2b7h3r59",
+        "image": "cla820gl1s3ov071u2b7h3r59.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Are there any instruments in the image? Check all that are present."
+            },
+            {
+                "from": "gpt",
+                "value": "none"
+            }
+        ]
+    },
+    {
+        "id": "cla820gl1s3ov071u2b7h3r59",
+        "image": "cla820gl1s3ov071u2b7h3r59.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Have all polyps been removed?"
+            },
+            {
+                "from": "gpt",
+                "value": "not relevant"
+            }
+        ]
+    },
+    {
+        "id": "cla820gl1s3ov071u2b7h3r59",
+        "image": "cla820gl1s3ov071u2b7h3r59.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "How many polyps are in the image?"
+            },
+            {
+                "from": "gpt",
+                "value": "0"
+            }
+        ]
+    },
+    {
+        "id": "cla820gl1s3ov071u2b7h3r59",
+        "image": "cla820gl1s3ov071u2b7h3r59.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "How many findings are present?"
+            },
+            {
+                "from": "gpt",
+                "value": "1"
+            }
+        ]
+    },
+    {
+        "id": "cla820gl1s3ov071u2b7h3r59",
+        "image": "cla820gl1s3ov071u2b7h3r59.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Is there a green/black box artefact?"
+            },
+            {
+                "from": "gpt",
+                "value": "yes"
+            }
+        ]
+    },
+    {
+        "id": "cla820gl1s3ov071u2b7h3r59",
+        "image": "cla820gl1s3ov071u2b7h3r59.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Are there any anatomical landmarks in the image? Check all that are present."
+            },
+            {
+                "from": "gpt",
+                "value": "none"
+            }
+        ]
+    },
+    {
+        "id": "cla820gl1s3ov071u2b7h3r59",
+        "image": "cla820gl1s3ov071u2b7h3r59.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Is this finding easy to detect?"
+            },
+            {
+                "from": "gpt",
+                "value": "yes"
+            }
+        ]
+    },
+    {
+        "id": "cla820gl1s3ov071u2b7h3r59",
+        "image": "cla820gl1s3ov071u2b7h3r59.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What color is the abnormality? If more than one separate with ;"
+            },
+            {
+                "from": "gpt",
+                "value": "pink; red"
+            }
+        ]
+    },
+    {
+        "id": "cla820gl1s3ov071u2b7h3r59",
+        "image": "cla820gl1s3ov071u2b7h3r59.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What type of procedure is the image taken from?"
+            },
+            {
+                "from": "gpt",
+                "value": "colonoscopy"
+            }
+        ]
+    },
+    {
+        "id": "cla820gl1s3ov071u2b7h3r59",
+        "image": "cla820gl1s3ov071u2b7h3r59.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Where in the image is the instrument?"
+            },
+            {
+                "from": "gpt",
+                "value": "none"
+            }
+        ]
+    },
+    {
+        "id": "cla820gl1s3ov071u2b7h3r59",
+        "image": "cla820gl1s3ov071u2b7h3r59.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Is there text?"
+            },
+            {
+                "from": "gpt",
+                "value": "yes"
+            }
+        ]
+    },
+    {
+        "id": "cla820gl1s3ov071u2b7h3r59",
+        "image": "cla820gl1s3ov071u2b7h3r59.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "How many instrumnets are in the image?"
+            },
+            {
+                "from": "gpt",
+                "value": "0"
+            }
+        ]
+    },
+    {
+        "id": "cla820gl1s3ov071u2b7h3r59",
+        "image": "cla820gl1s3ov071u2b7h3r59.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Are there any abnormalities in the image? Check all that are present."
+            },
+            {
+                "from": "gpt",
+                "value": "ulcerative colitis"
+            }
+        ]
+    },
+    {
+        "id": "cla820gl1s3ov071u2b7h3r59",
+        "image": "cla820gl1s3ov071u2b7h3r59.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Where in the image is the abnormality?"
+            },
+            {
+                "from": "gpt",
+                "value": "center; center-left; center-right; lower-center; lower-left; lower-right; upper-center; upper-left; upper-right"
+            }
+        ]
+    },
+    {
+        "id": "cla820gl1s3ov071u2b7h3r59",
+        "image": "cla820gl1s3ov071u2b7h3r59.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is the size of the polyp?"
+            },
+            {
+                "from": "gpt",
+                "value": "none"
+            }
+        ]
+    },
+    {
+        "id": "cla820gl1s3ov071u2b7h3r59",
+        "image": "cla820gl1s3ov071u2b7h3r59.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Where in the image is the anatomical landmark?"
+            },
+            {
+                "from": "gpt",
+                "value": "none"
+            }
+        ]
+    },
+    {
+        "id": "cla820gl1s3oz071u2ixjf7yk",
+        "image": "cla820gl1s3oz071u2ixjf7yk.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "How many findings are present?"
+            },
+            {
+                "from": "gpt",
+                "value": "1"
+            }
+        ]
+    },
+    {
+        "id": "cla820gl1s3oz071u2ixjf7yk",
+        "image": "cla820gl1s3oz071u2ixjf7yk.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Is this finding easy to detect?"
+            },
+            {
+                "from": "gpt",
+                "value": "yes"
+            }
+        ]
+    },
+    {
+        "id": "cla820gl1s3oz071u2ixjf7yk",
+        "image": "cla820gl1s3oz071u2ixjf7yk.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What type of polyp is present?"
+            },
+            {
+                "from": "gpt",
+                "value": "none"
+            }
+        ]
+    },
+    {
+        "id": "cla820gl1s3oz071u2ixjf7yk",
+        "image": "cla820gl1s3oz071u2ixjf7yk.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is the size of the polyp?"
+            },
+            {
+                "from": "gpt",
+                "value": "none"
+            }
+        ]
+    },
+    {
+        "id": "cla820gl1s3oz071u2ixjf7yk",
+        "image": "cla820gl1s3oz071u2ixjf7yk.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Are there any instruments in the image? Check all that are present."
+            },
+            {
+                "from": "gpt",
+                "value": "none"
+            }
+        ]
+    },
+    {
+        "id": "cla820gl1s3oz071u2ixjf7yk",
+        "image": "cla820gl1s3oz071u2ixjf7yk.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Where in the image is the anatomical landmark?"
+            },
+            {
+                "from": "gpt",
+                "value": "none"
+            }
+        ]
+    },
+    {
+        "id": "cla820gl1s3oz071u2ixjf7yk",
+        "image": "cla820gl1s3oz071u2ixjf7yk.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Have all polyps been removed?"
+            },
+            {
+                "from": "gpt",
+                "value": "not relevant"
+            }
+        ]
+    },
+    {
+        "id": "cla820gl1s3oz071u2ixjf7yk",
+        "image": "cla820gl1s3oz071u2ixjf7yk.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Where in the image is the instrument?"
+            },
+            {
+                "from": "gpt",
+                "value": "none"
+            }
+        ]
+    },
+    {
+        "id": "cla820gl1s3oz071u2ixjf7yk",
+        "image": "cla820gl1s3oz071u2ixjf7yk.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What color is the abnormality? If more than one separate with ;"
+            },
+            {
+                "from": "gpt",
+                "value": "pink; red"
+            }
+        ]
+    },
+    {
+        "id": "cla820gl1s3oz071u2ixjf7yk",
+        "image": "cla820gl1s3oz071u2ixjf7yk.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Is there a green/black box artefact?"
+            },
+            {
+                "from": "gpt",
+                "value": "no"
+            }
+        ]
+    },
+    {
+        "id": "cla820gl1s3oz071u2ixjf7yk",
+        "image": "cla820gl1s3oz071u2ixjf7yk.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "How many instrumnets are in the image?"
+            },
+            {
+                "from": "gpt",
+                "value": "0"
+            }
+        ]
+    },
+    {
+        "id": "cla820gl1s3oz071u2ixjf7yk",
+        "image": "cla820gl1s3oz071u2ixjf7yk.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "How many polyps are in the image?"
+            },
+            {
+                "from": "gpt",
+                "value": "0"
+            }
+        ]
+    },
+    {
+        "id": "cla820gl1s3oz071u2ixjf7yk",
+        "image": "cla820gl1s3oz071u2ixjf7yk.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What type of procedure is the image taken from?"
+            },
+            {
+                "from": "gpt",
+                "value": "colonoscopy"
+            }
+        ]
+    },
+    {
+        "id": "cla820gl1s3oz071u2ixjf7yk",
+        "image": "cla820gl1s3oz071u2ixjf7yk.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Are there any abnormalities in the image? Check all that are present."
+            },
+            {
+                "from": "gpt",
+                "value": "ulcerative colitis"
+            }
+        ]
+    },
+    {
+        "id": "cla820gl1s3oz071u2ixjf7yk",
+        "image": "cla820gl1s3oz071u2ixjf7yk.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Where in the image is the abnormality?"
+            },
+            {
+                "from": "gpt",
+                "value": "center; center-left; center-right; lower-center; lower-left; lower-right; upper-center; upper-left; upper-right"
+            }
+        ]
+    },
+    {
+        "id": "cla820gl1s3oz071u2ixjf7yk",
+        "image": "cla820gl1s3oz071u2ixjf7yk.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Is there text?"
+            },
+            {
+                "from": "gpt",
+                "value": "no"
+            }
+        ]
+    },
+    {
+        "id": "cla820gl1s3oz071u2ixjf7yk",
+        "image": "cla820gl1s3oz071u2ixjf7yk.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Are there any anatomical landmarks in the image? Check all that are present."
+            },
+            {
+                "from": "gpt",
+                "value": "none"
+            }
+        ]
+    },
+    {
+        "id": "cla820gl1s3p3071udi3n74jf",
+        "image": "cla820gl1s3p3071udi3n74jf.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What type of procedure is the image taken from?"
+            },
+            {
+                "from": "gpt",
+                "value": "colonoscopy"
+            }
+        ]
+    },
+    {
+        "id": "cla820gl1s3p3071udi3n74jf",
+        "image": "cla820gl1s3p3071udi3n74jf.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What type of polyp is present?"
+            },
+            {
+                "from": "gpt",
+                "value": "none"
+            }
+        ]
+    },
+    {
+        "id": "cla820gl1s3p3071udi3n74jf",
+        "image": "cla820gl1s3p3071udi3n74jf.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Have all polyps been removed?"
+            },
+            {
+                "from": "gpt",
+                "value": "not relevant"
+            }
+        ]
+    },
+    {
+        "id": "cla820gl1s3p3071udi3n74jf",
+        "image": "cla820gl1s3p3071udi3n74jf.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What color is the abnormality? If more than one separate with ;"
+            },
+            {
+                "from": "gpt",
+                "value": "pink; red; white; yellow"
+            }
+        ]
+    },
+    {
+        "id": "cla820gl1s3p3071udi3n74jf",
+        "image": "cla820gl1s3p3071udi3n74jf.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Is there text?"
+            },
+            {
+                "from": "gpt",
+                "value": "yes"
+            }
+        ]
+    },
+    {
+        "id": "cla820gl1s3p3071udi3n74jf",
+        "image": "cla820gl1s3p3071udi3n74jf.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Is there a green/black box artefact?"
+            },
+            {
+                "from": "gpt",
+                "value": "no"
+            }
+        ]
+    },
+    {
+        "id": "cla820gl1s3p3071udi3n74jf",
+        "image": "cla820gl1s3p3071udi3n74jf.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Are there any abnormalities in the image? Check all that are present."
+            },
+            {
+                "from": "gpt",
+                "value": "ulcerative colitis"
+            }
+        ]
+    },
+    {
+        "id": "cla820gl1s3p3071udi3n74jf",
+        "image": "cla820gl1s3p3071udi3n74jf.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Where in the image is the instrument?"
+            },
+            {
+                "from": "gpt",
+                "value": "none"
+            }
+        ]
+    },
+    {
+        "id": "cla820gl1s3p3071udi3n74jf",
+        "image": "cla820gl1s3p3071udi3n74jf.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "How many instrumnets are in the image?"
+            },
+            {
+                "from": "gpt",
+                "value": "0"
+            }
+        ]
+    },
+    {
+        "id": "cla820gl1s3p3071udi3n74jf",
+        "image": "cla820gl1s3p3071udi3n74jf.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Are there any anatomical landmarks in the image? Check all that are present."
+            },
+            {
+                "from": "gpt",
+                "value": "none"
+            }
+        ]
+    },
+    {
+        "id": "cla820gl1s3p3071udi3n74jf",
+        "image": "cla820gl1s3p3071udi3n74jf.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Is this finding easy to detect?"
+            },
+            {
+                "from": "gpt",
+                "value": "yes"
+            }
+        ]
+    },
+    {
+        "id": "cla820gl1s3p3071udi3n74jf",
+        "image": "cla820gl1s3p3071udi3n74jf.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Where in the image is the anatomical landmark?"
+            },
+            {
+                "from": "gpt",
+                "value": "none"
+            }
+        ]
+    },
+    {
+        "id": "cla820gl1s3p3071udi3n74jf",
+        "image": "cla820gl1s3p3071udi3n74jf.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Where in the image is the abnormality?"
+            },
+            {
+                "from": "gpt",
+                "value": "center; center-right; lower-center; lower-left; lower-right; upper-center; upper-left; upper-right"
+            }
+        ]
+    },
+    {
+        "id": "cla820gl1s3p3071udi3n74jf",
+        "image": "cla820gl1s3p3071udi3n74jf.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "How many findings are present?"
+            },
+            {
+                "from": "gpt",
+                "value": "1"
+            }
+        ]
+    },
+    {
+        "id": "cla820gl1s3p3071udi3n74jf",
+        "image": "cla820gl1s3p3071udi3n74jf.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Are there any instruments in the image? Check all that are present."
+            },
+            {
+                "from": "gpt",
+                "value": "none"
+            }
+        ]
+    },
+    {
+        "id": "cla820gl1s3p3071udi3n74jf",
+        "image": "cla820gl1s3p3071udi3n74jf.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "How many polyps are in the image?"
+            },
+            {
+                "from": "gpt",
+                "value": "0"
+            }
+        ]
+    },
+    {
+        "id": "cla820gl1s3p3071udi3n74jf",
+        "image": "cla820gl1s3p3071udi3n74jf.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is the size of the polyp?"
+            },
+            {
+                "from": "gpt",
+                "value": "none"
+            }
+        ]
+    },
+    {
+        "id": "cla820gl1s3p7071u7m8c1gl7",
+        "image": "cla820gl1s3p7071u7m8c1gl7.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is the size of the polyp?"
+            },
+            {
+                "from": "gpt",
+                "value": "none"
+            }
+        ]
+    },
+    {
+        "id": "cla820gl1s3p7071u7m8c1gl7",
+        "image": "cla820gl1s3p7071u7m8c1gl7.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Are there any anatomical landmarks in the image? Check all that are present."
+            },
+            {
+                "from": "gpt",
+                "value": "none"
+            }
+        ]
+    },
+    {
+        "id": "cla820gl1s3p7071u7m8c1gl7",
+        "image": "cla820gl1s3p7071u7m8c1gl7.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "How many findings are present?"
+            },
+            {
+                "from": "gpt",
+                "value": "1"
+            }
+        ]
+    },
+    {
+        "id": "cla820gl1s3p7071u7m8c1gl7",
+        "image": "cla820gl1s3p7071u7m8c1gl7.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Have all polyps been removed?"
+            },
+            {
+                "from": "gpt",
+                "value": "not relevant"
+            }
+        ]
+    },
+    {
+        "id": "cla820gl1s3p7071u7m8c1gl7",
+        "image": "cla820gl1s3p7071u7m8c1gl7.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What type of procedure is the image taken from?"
+            },
+            {
+                "from": "gpt",
+                "value": "colonoscopy"
+            }
+        ]
+    },
+    {
+        "id": "cla820gl1s3p7071u7m8c1gl7",
+        "image": "cla820gl1s3p7071u7m8c1gl7.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What color is the abnormality? If more than one separate with ;"
+            },
+            {
+                "from": "gpt",
+                "value": "pink; red; white"
+            }
+        ]
+    },
+    {
+        "id": "cla820gl1s3p7071u7m8c1gl7",
+        "image": "cla820gl1s3p7071u7m8c1gl7.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What type of polyp is present?"
+            },
+            {
+                "from": "gpt",
+                "value": "none"
+            }
+        ]
+    },
+    {
+        "id": "cla820gl1s3p7071u7m8c1gl7",
+        "image": "cla820gl1s3p7071u7m8c1gl7.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "How many polyps are in the image?"
+            },
+            {
+                "from": "gpt",
+                "value": "0"
+            }
+        ]
+    },
+    {
+        "id": "cla820gl1s3p7071u7m8c1gl7",
+        "image": "cla820gl1s3p7071u7m8c1gl7.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Where in the image is the instrument?"
+            },
+            {
+                "from": "gpt",
+                "value": "none"
+            }
+        ]
+    },
+    {
+        "id": "cla820gl1s3p7071u7m8c1gl7",
+        "image": "cla820gl1s3p7071u7m8c1gl7.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Are there any instruments in the image? Check all that are present."
+            },
+            {
+                "from": "gpt",
+                "value": "none"
+            }
+        ]
+    },
+    {
+        "id": "cla820gl1s3p7071u7m8c1gl7",
+        "image": "cla820gl1s3p7071u7m8c1gl7.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Is there a green/black box artefact?"
+            },
+            {
+                "from": "gpt",
+                "value": "no"
+            }
+        ]
+    },
+    {
+        "id": "cla820gl1s3p7071u7m8c1gl7",
+        "image": "cla820gl1s3p7071u7m8c1gl7.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Are there any abnormalities in the image? Check all that are present."
+            },
+            {
+                "from": "gpt",
+                "value": "ulcerative colitis"
+            }
+        ]
+    },
+    {
+        "id": "cla820gl1s3p7071u7m8c1gl7",
+        "image": "cla820gl1s3p7071u7m8c1gl7.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Where in the image is the anatomical landmark?"
+            },
+            {
+                "from": "gpt",
+                "value": "none"
+            }
+        ]
+    },
+    {
+        "id": "cla820gl1s3p7071u7m8c1gl7",
+        "image": "cla820gl1s3p7071u7m8c1gl7.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Where in the image is the abnormality?"
+            },
+            {
+                "from": "gpt",
+                "value": "center; center-left; center-right; lower-center; lower-left; lower-right; upper-center; upper-left; upper-right"
+            }
+        ]
+    },
+    {
+        "id": "cla820gl1s3p7071u7m8c1gl7",
+        "image": "cla820gl1s3p7071u7m8c1gl7.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "How many instrumnets are in the image?"
+            },
+            {
+                "from": "gpt",
+                "value": "0"
+            }
+        ]
+    },
+    {
+        "id": "cla820gl1s3p7071u7m8c1gl7",
+        "image": "cla820gl1s3p7071u7m8c1gl7.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Is there text?"
+            },
+            {
+                "from": "gpt",
+                "value": "yes"
+            }
+        ]
+    },
+    {
+        "id": "cla820gl1s3p7071u7m8c1gl7",
+        "image": "cla820gl1s3p7071u7m8c1gl7.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Is this finding easy to detect?"
+            },
+            {
+                "from": "gpt",
+                "value": "yes"
+            }
+        ]
+    },
+    {
+        "id": "cla820gl1s3pb071u45lb0snu",
+        "image": "cla820gl1s3pb071u45lb0snu.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What type of procedure is the image taken from?"
+            },
+            {
+                "from": "gpt",
+                "value": "colonoscopy"
+            }
+        ]
+    },
+    {
+        "id": "cla820gl1s3pb071u45lb0snu",
+        "image": "cla820gl1s3pb071u45lb0snu.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Are there any instruments in the image? Check all that are present."
+            },
+            {
+                "from": "gpt",
+                "value": "none"
+            }
+        ]
+    },
+    {
+        "id": "cla820gl1s3pb071u45lb0snu",
+        "image": "cla820gl1s3pb071u45lb0snu.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Is there text?"
+            },
+            {
+                "from": "gpt",
+                "value": "yes"
+            }
+        ]
+    },
+    {
+        "id": "cla820gl1s3pb071u45lb0snu",
+        "image": "cla820gl1s3pb071u45lb0snu.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Where in the image is the anatomical landmark?"
+            },
+            {
+                "from": "gpt",
+                "value": "none"
+            }
+        ]
+    },
+    {
+        "id": "cla820gl1s3pb071u45lb0snu",
+        "image": "cla820gl1s3pb071u45lb0snu.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Are there any anatomical landmarks in the image? Check all that are present."
+            },
+            {
+                "from": "gpt",
+                "value": "none"
+            }
+        ]
+    },
+    {
+        "id": "cla820gl1s3pb071u45lb0snu",
+        "image": "cla820gl1s3pb071u45lb0snu.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Is this finding easy to detect?"
+            },
+            {
+                "from": "gpt",
+                "value": "yes"
+            }
+        ]
+    },
+    {
+        "id": "cla820gl1s3pb071u45lb0snu",
+        "image": "cla820gl1s3pb071u45lb0snu.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Where in the image is the abnormality?"
+            },
+            {
+                "from": "gpt",
+                "value": "center; center-left; center-right; lower-center; lower-left; lower-right; upper-center; upper-left; upper-right"
+            }
+        ]
+    },
+    {
+        "id": "cla820gl1s3pb071u45lb0snu",
+        "image": "cla820gl1s3pb071u45lb0snu.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is the size of the polyp?"
+            },
+            {
+                "from": "gpt",
+                "value": "none"
+            }
+        ]
+    },
+    {
+        "id": "cla820gl1s3pb071u45lb0snu",
+        "image": "cla820gl1s3pb071u45lb0snu.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Have all polyps been removed?"
+            },
+            {
+                "from": "gpt",
+                "value": "not relevant"
+            }
+        ]
+    },
+    {
+        "id": "cla820gl1s3pb071u45lb0snu",
+        "image": "cla820gl1s3pb071u45lb0snu.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What color is the abnormality? If more than one separate with ;"
+            },
+            {
+                "from": "gpt",
+                "value": "pink; red; white"
+            }
+        ]
+    },
+    {
+        "id": "cla820gl1s3pb071u45lb0snu",
+        "image": "cla820gl1s3pb071u45lb0snu.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "How many findings are present?"
+            },
+            {
+                "from": "gpt",
+                "value": "1"
+            }
+        ]
+    },
+    {
+        "id": "cla820gl1s3pb071u45lb0snu",
+        "image": "cla820gl1s3pb071u45lb0snu.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "How many instrumnets are in the image?"
+            },
+            {
+                "from": "gpt",
+                "value": "0"
+            }
+        ]
+    },
+    {
+        "id": "cla820gl1s3pb071u45lb0snu",
+        "image": "cla820gl1s3pb071u45lb0snu.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Are there any abnormalities in the image? Check all that are present."
+            },
+            {
+                "from": "gpt",
+                "value": "ulcerative colitis"
+            }
+        ]
+    },
+    {
+        "id": "cla820gl1s3pb071u45lb0snu",
+        "image": "cla820gl1s3pb071u45lb0snu.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "How many polyps are in the image?"
+            },
+            {
+                "from": "gpt",
+                "value": "0"
+            }
+        ]
+    },
+    {
+        "id": "cla820gl1s3pb071u45lb0snu",
+        "image": "cla820gl1s3pb071u45lb0snu.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Is there a green/black box artefact?"
+            },
+            {
+                "from": "gpt",
+                "value": "no"
+            }
+        ]
+    },
+    {
+        "id": "cla820gl1s3pb071u45lb0snu",
+        "image": "cla820gl1s3pb071u45lb0snu.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Where in the image is the instrument?"
+            },
+            {
+                "from": "gpt",
+                "value": "none"
+            }
+        ]
+    },
+    {
+        "id": "cla820gl1s3pb071u45lb0snu",
+        "image": "cla820gl1s3pb071u45lb0snu.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What type of polyp is present?"
+            },
+            {
+                "from": "gpt",
+                "value": "none"
+            }
+        ]
+    },
+    {
+        "id": "cla820gl1s3pf071ue7ja2fur",
+        "image": "cla820gl1s3pf071ue7ja2fur.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Have all polyps been removed?"
+            },
+            {
+                "from": "gpt",
+                "value": "not relevant"
+            }
+        ]
+    },
+    {
+        "id": "cla820gl1s3pf071ue7ja2fur",
+        "image": "cla820gl1s3pf071ue7ja2fur.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Is there text?"
+            },
+            {
+                "from": "gpt",
+                "value": "yes"
+            }
+        ]
+    },
+    {
+        "id": "cla820gl1s3pf071ue7ja2fur",
+        "image": "cla820gl1s3pf071ue7ja2fur.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Are there any instruments in the image? Check all that are present."
+            },
+            {
+                "from": "gpt",
+                "value": "none"
+            }
+        ]
+    },
+    {
+        "id": "cla820gl1s3pf071ue7ja2fur",
+        "image": "cla820gl1s3pf071ue7ja2fur.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "How many polyps are in the image?"
+            },
+            {
+                "from": "gpt",
+                "value": "0"
+            }
+        ]
+    },
+    {
+        "id": "cla820gl1s3pf071ue7ja2fur",
+        "image": "cla820gl1s3pf071ue7ja2fur.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What type of polyp is present?"
+            },
+            {
+                "from": "gpt",
+                "value": "none"
+            }
+        ]
+    },
+    {
+        "id": "cla820gl1s3pf071ue7ja2fur",
+        "image": "cla820gl1s3pf071ue7ja2fur.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "How many instrumnets are in the image?"
+            },
+            {
+                "from": "gpt",
+                "value": "0"
+            }
+        ]
+    },
+    {
+        "id": "cla820gl1s3pf071ue7ja2fur",
+        "image": "cla820gl1s3pf071ue7ja2fur.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Are there any abnormalities in the image? Check all that are present."
+            },
+            {
+                "from": "gpt",
+                "value": "ulcerative colitis"
+            }
+        ]
+    },
+    {
+        "id": "cla820gl1s3pf071ue7ja2fur",
+        "image": "cla820gl1s3pf071ue7ja2fur.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Are there any anatomical landmarks in the image? Check all that are present."
+            },
+            {
+                "from": "gpt",
+                "value": "none"
+            }
+        ]
+    },
+    {
+        "id": "cla820gl1s3pf071ue7ja2fur",
+        "image": "cla820gl1s3pf071ue7ja2fur.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What color is the abnormality? If more than one separate with ;"
+            },
+            {
+                "from": "gpt",
+                "value": "pink; red; white"
+            }
+        ]
+    },
+    {
+        "id": "cla820gl1s3pf071ue7ja2fur",
+        "image": "cla820gl1s3pf071ue7ja2fur.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "How many findings are present?"
+            },
+            {
+                "from": "gpt",
+                "value": "1"
+            }
+        ]
+    },
+    {
+        "id": "cla820gl1s3pf071ue7ja2fur",
+        "image": "cla820gl1s3pf071ue7ja2fur.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Where in the image is the anatomical landmark?"
+            },
+            {
+                "from": "gpt",
+                "value": "none"
+            }
+        ]
+    },
+    {
+        "id": "cla820gl1s3pf071ue7ja2fur",
+        "image": "cla820gl1s3pf071ue7ja2fur.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Where in the image is the abnormality?"
+            },
+            {
+                "from": "gpt",
+                "value": "center; center-left; center-right; lower-center; lower-left; lower-right; upper-center; upper-left; upper-right"
+            }
+        ]
+    },
+    {
+        "id": "cla820gl1s3pf071ue7ja2fur",
+        "image": "cla820gl1s3pf071ue7ja2fur.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What type of procedure is the image taken from?"
+            },
+            {
+                "from": "gpt",
+                "value": "colonoscopy"
+            }
+        ]
+    },
+    {
+        "id": "cla820gl1s3pf071ue7ja2fur",
+        "image": "cla820gl1s3pf071ue7ja2fur.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Is there a green/black box artefact?"
+            },
+            {
+                "from": "gpt",
+                "value": "no"
+            }
+        ]
+    },
+    {
+        "id": "cla820gl1s3pf071ue7ja2fur",
+        "image": "cla820gl1s3pf071ue7ja2fur.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Is this finding easy to detect?"
+            },
+            {
+                "from": "gpt",
+                "value": "yes"
+            }
+        ]
+    },
+    {
+        "id": "cla820gl1s3pf071ue7ja2fur",
+        "image": "cla820gl1s3pf071ue7ja2fur.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is the size of the polyp?"
+            },
+            {
+                "from": "gpt",
+                "value": "none"
+            }
+        ]
+    },
+    {
+        "id": "cla820gl1s3pf071ue7ja2fur",
+        "image": "cla820gl1s3pf071ue7ja2fur.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Where in the image is the instrument?"
+            },
+            {
+                "from": "gpt",
+                "value": "none"
+            }
+        ]
+    },
+    {
+        "id": "cla820gl1s3pj071u0wta8adz",
+        "image": "cla820gl1s3pj071u0wta8adz.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Is there a green/black box artefact?"
+            },
+            {
+                "from": "gpt",
+                "value": "yes"
+            }
+        ]
+    },
+    {
+        "id": "cla820gl1s3pj071u0wta8adz",
+        "image": "cla820gl1s3pj071u0wta8adz.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is the size of the polyp?"
+            },
+            {
+                "from": "gpt",
+                "value": "none"
+            }
+        ]
+    },
+    {
+        "id": "cla820gl1s3pj071u0wta8adz",
+        "image": "cla820gl1s3pj071u0wta8adz.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Is this finding easy to detect?"
+            },
+            {
+                "from": "gpt",
+                "value": "yes"
+            }
+        ]
+    },
+    {
+        "id": "cla820gl1s3pj071u0wta8adz",
+        "image": "cla820gl1s3pj071u0wta8adz.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Are there any abnormalities in the image? Check all that are present."
+            },
+            {
+                "from": "gpt",
+                "value": "ulcerative colitis"
+            }
+        ]
+    },
+    {
+        "id": "cla820gl1s3pj071u0wta8adz",
+        "image": "cla820gl1s3pj071u0wta8adz.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Are there any instruments in the image? Check all that are present."
+            },
+            {
+                "from": "gpt",
+                "value": "none"
+            }
+        ]
+    },
+    {
+        "id": "cla820gl1s3pj071u0wta8adz",
+        "image": "cla820gl1s3pj071u0wta8adz.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Where in the image is the instrument?"
+            },
+            {
+                "from": "gpt",
+                "value": "none"
+            }
+        ]
+    },
+    {
+        "id": "cla820gl1s3pj071u0wta8adz",
+        "image": "cla820gl1s3pj071u0wta8adz.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "How many findings are present?"
+            },
+            {
+                "from": "gpt",
+                "value": "1"
+            }
+        ]
+    },
+    {
+        "id": "cla820gl1s3pj071u0wta8adz",
+        "image": "cla820gl1s3pj071u0wta8adz.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Where in the image is the anatomical landmark?"
+            },
+            {
+                "from": "gpt",
+                "value": "none"
+            }
+        ]
+    },
+    {
+        "id": "cla820gl1s3pj071u0wta8adz",
+        "image": "cla820gl1s3pj071u0wta8adz.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What type of procedure is the image taken from?"
+            },
+            {
+                "from": "gpt",
+                "value": "colonoscopy"
+            }
+        ]
+    },
+    {
+        "id": "cla820gl1s3pj071u0wta8adz",
+        "image": "cla820gl1s3pj071u0wta8adz.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Is there text?"
+            },
+            {
+                "from": "gpt",
+                "value": "no"
+            }
+        ]
+    },
+    {
+        "id": "cla820gl1s3pj071u0wta8adz",
+        "image": "cla820gl1s3pj071u0wta8adz.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What type of polyp is present?"
+            },
+            {
+                "from": "gpt",
+                "value": "none"
+            }
+        ]
+    },
+    {
+        "id": "cla820gl1s3pj071u0wta8adz",
+        "image": "cla820gl1s3pj071u0wta8adz.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Have all polyps been removed?"
+            },
+            {
+                "from": "gpt",
+                "value": "not relevant"
+            }
+        ]
+    },
+    {
+        "id": "cla820gl1s3pj071u0wta8adz",
+        "image": "cla820gl1s3pj071u0wta8adz.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "How many instrumnets are in the image?"
+            },
+            {
+                "from": "gpt",
+                "value": "0"
+            }
+        ]
+    },
+    {
+        "id": "cla820gl1s3pj071u0wta8adz",
+        "image": "cla820gl1s3pj071u0wta8adz.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What color is the abnormality? If more than one separate with ;"
+            },
+            {
+                "from": "gpt",
+                "value": "pink; red; white"
+            }
+        ]
+    },
+    {
+        "id": "cla820gl1s3pj071u0wta8adz",
+        "image": "cla820gl1s3pj071u0wta8adz.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Are there any anatomical landmarks in the image? Check all that are present."
+            },
+            {
+                "from": "gpt",
+                "value": "none"
+            }
+        ]
+    },
+    {
+        "id": "cla820gl1s3pj071u0wta8adz",
+        "image": "cla820gl1s3pj071u0wta8adz.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Where in the image is the abnormality?"
+            },
+            {
+                "from": "gpt",
+                "value": "center; center-left; center-right; lower-center; lower-right; upper-center; upper-left; upper-right"
+            }
+        ]
+    },
+    {
+        "id": "cla820gl1s3pj071u0wta8adz",
+        "image": "cla820gl1s3pj071u0wta8adz.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "How many polyps are in the image?"
+            },
+            {
+                "from": "gpt",
+                "value": "0"
+            }
+        ]
+    },
+    {
+        "id": "cla820gl1s3pn071u6vzxgsxv",
+        "image": "cla820gl1s3pn071u6vzxgsxv.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Is this finding easy to detect?"
+            },
+            {
+                "from": "gpt",
+                "value": "yes"
+            }
+        ]
+    },
+    {
+        "id": "cla820gl1s3pn071u6vzxgsxv",
+        "image": "cla820gl1s3pn071u6vzxgsxv.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What type of polyp is present?"
+            },
+            {
+                "from": "gpt",
+                "value": "none"
+            }
+        ]
+    },
+    {
+        "id": "cla820gl1s3pn071u6vzxgsxv",
+        "image": "cla820gl1s3pn071u6vzxgsxv.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Where in the image is the instrument?"
+            },
+            {
+                "from": "gpt",
+                "value": "none"
+            }
+        ]
+    },
+    {
+        "id": "cla820gl1s3pn071u6vzxgsxv",
+        "image": "cla820gl1s3pn071u6vzxgsxv.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Where in the image is the abnormality?"
+            },
+            {
+                "from": "gpt",
+                "value": "center; center-left; center-right; lower-center; lower-right; upper-center; upper-left; upper-right"
+            }
+        ]
+    },
+    {
+        "id": "cla820gl1s3pn071u6vzxgsxv",
+        "image": "cla820gl1s3pn071u6vzxgsxv.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What type of procedure is the image taken from?"
+            },
+            {
+                "from": "gpt",
+                "value": "colonoscopy"
+            }
+        ]
+    },
+    {
+        "id": "cla820gl1s3pn071u6vzxgsxv",
+        "image": "cla820gl1s3pn071u6vzxgsxv.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What color is the abnormality? If more than one separate with ;"
+            },
+            {
+                "from": "gpt",
+                "value": "pink; red; white"
+            }
+        ]
+    },
+    {
+        "id": "cla820gl1s3pn071u6vzxgsxv",
+        "image": "cla820gl1s3pn071u6vzxgsxv.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "How many findings are present?"
+            },
+            {
+                "from": "gpt",
+                "value": "1"
+            }
+        ]
+    },
+    {
+        "id": "cla820gl1s3pn071u6vzxgsxv",
+        "image": "cla820gl1s3pn071u6vzxgsxv.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Where in the image is the anatomical landmark?"
+            },
+            {
+                "from": "gpt",
+                "value": "none"
+            }
+        ]
+    },
+    {
+        "id": "cla820gl1s3pn071u6vzxgsxv",
+        "image": "cla820gl1s3pn071u6vzxgsxv.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Have all polyps been removed?"
+            },
+            {
+                "from": "gpt",
+                "value": "not relevant"
+            }
+        ]
+    },
+    {
+        "id": "cla820gl1s3pn071u6vzxgsxv",
+        "image": "cla820gl1s3pn071u6vzxgsxv.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Are there any anatomical landmarks in the image? Check all that are present."
+            },
+            {
+                "from": "gpt",
+                "value": "none"
+            }
+        ]
+    },
+    {
+        "id": "cla820gl1s3pn071u6vzxgsxv",
+        "image": "cla820gl1s3pn071u6vzxgsxv.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Is there a green/black box artefact?"
+            },
+            {
+                "from": "gpt",
+                "value": "yes"
+            }
+        ]
+    },
+    {
+        "id": "cla820gl1s3pn071u6vzxgsxv",
+        "image": "cla820gl1s3pn071u6vzxgsxv.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Are there any abnormalities in the image? Check all that are present."
+            },
+            {
+                "from": "gpt",
+                "value": "ulcerative colitis"
+            }
+        ]
+    },
+    {
+        "id": "cla820gl1s3pn071u6vzxgsxv",
+        "image": "cla820gl1s3pn071u6vzxgsxv.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Is there text?"
+            },
+            {
+                "from": "gpt",
+                "value": "yes"
+            }
+        ]
+    },
+    {
+        "id": "cla820gl1s3pn071u6vzxgsxv",
+        "image": "cla820gl1s3pn071u6vzxgsxv.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "How many instrumnets are in the image?"
+            },
+            {
+                "from": "gpt",
+                "value": "0"
+            }
+        ]
+    },
+    {
+        "id": "cla820gl1s3pn071u6vzxgsxv",
+        "image": "cla820gl1s3pn071u6vzxgsxv.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "How many polyps are in the image?"
+            },
+            {
+                "from": "gpt",
+                "value": "0"
+            }
+        ]
+    },
+    {
+        "id": "cla820gl1s3pn071u6vzxgsxv",
+        "image": "cla820gl1s3pn071u6vzxgsxv.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Are there any instruments in the image? Check all that are present."
+            },
+            {
+                "from": "gpt",
+                "value": "none"
+            }
+        ]
+    },
+    {
+        "id": "cla820gl1s3pn071u6vzxgsxv",
+        "image": "cla820gl1s3pn071u6vzxgsxv.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is the size of the polyp?"
+            },
+            {
+                "from": "gpt",
+                "value": "none"
+            }
+        ]
+    },
+    {
+        "id": "cla820gl1s3pr071u2vi94r92",
+        "image": "cla820gl1s3pr071u2vi94r92.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Are there any anatomical landmarks in the image? Check all that are present."
+            },
+            {
+                "from": "gpt",
+                "value": "none"
+            }
+        ]
+    },
+    {
+        "id": "cla820gl1s3pr071u2vi94r92",
+        "image": "cla820gl1s3pr071u2vi94r92.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What type of procedure is the image taken from?"
+            },
+            {
+                "from": "gpt",
+                "value": "colonoscopy"
+            }
+        ]
+    },
+    {
+        "id": "cla820gl1s3pr071u2vi94r92",
+        "image": "cla820gl1s3pr071u2vi94r92.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is the size of the polyp?"
+            },
+            {
+                "from": "gpt",
+                "value": "none"
+            }
+        ]
+    },
+    {
+        "id": "cla820gl1s3pr071u2vi94r92",
+        "image": "cla820gl1s3pr071u2vi94r92.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What type of polyp is present?"
+            },
+            {
+                "from": "gpt",
+                "value": "none"
+            }
+        ]
+    },
+    {
+        "id": "cla820gl1s3pr071u2vi94r92",
+        "image": "cla820gl1s3pr071u2vi94r92.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Have all polyps been removed?"
+            },
+            {
+                "from": "gpt",
+                "value": "not relevant"
+            }
+        ]
+    },
+    {
+        "id": "cla820gl1s3pr071u2vi94r92",
+        "image": "cla820gl1s3pr071u2vi94r92.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Where in the image is the anatomical landmark?"
+            },
+            {
+                "from": "gpt",
+                "value": "none"
+            }
+        ]
+    },
+    {
+        "id": "cla820gl1s3pr071u2vi94r92",
+        "image": "cla820gl1s3pr071u2vi94r92.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Where in the image is the abnormality?"
+            },
+            {
+                "from": "gpt",
+                "value": "center; center-left; center-right; lower-center; lower-right; upper-center; upper-left; upper-right"
+            }
+        ]
+    },
+    {
+        "id": "cla820gl1s3pr071u2vi94r92",
+        "image": "cla820gl1s3pr071u2vi94r92.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Are there any abnormalities in the image? Check all that are present."
+            },
+            {
+                "from": "gpt",
+                "value": "ulcerative colitis"
+            }
+        ]
+    },
+    {
+        "id": "cla820gl1s3pr071u2vi94r92",
+        "image": "cla820gl1s3pr071u2vi94r92.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Is there a green/black box artefact?"
+            },
+            {
+                "from": "gpt",
+                "value": "yes"
+            }
+        ]
+    },
+    {
+        "id": "cla820gl1s3pr071u2vi94r92",
+        "image": "cla820gl1s3pr071u2vi94r92.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "How many findings are present?"
+            },
+            {
+                "from": "gpt",
+                "value": "1"
+            }
+        ]
+    },
+    {
+        "id": "cla820gl1s3pr071u2vi94r92",
+        "image": "cla820gl1s3pr071u2vi94r92.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "How many polyps are in the image?"
+            },
+            {
+                "from": "gpt",
+                "value": "0"
+            }
+        ]
+    },
+    {
+        "id": "cla820gl1s3pr071u2vi94r92",
+        "image": "cla820gl1s3pr071u2vi94r92.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Is this finding easy to detect?"
+            },
+            {
+                "from": "gpt",
+                "value": "yes"
+            }
+        ]
+    },
+    {
+        "id": "cla820gl1s3pr071u2vi94r92",
+        "image": "cla820gl1s3pr071u2vi94r92.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Where in the image is the instrument?"
+            },
+            {
+                "from": "gpt",
+                "value": "none"
+            }
+        ]
+    },
+    {
+        "id": "cla820gl1s3pr071u2vi94r92",
+        "image": "cla820gl1s3pr071u2vi94r92.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "How many instrumnets are in the image?"
+            },
+            {
+                "from": "gpt",
+                "value": "0"
+            }
+        ]
+    },
+    {
+        "id": "cla820gl1s3pr071u2vi94r92",
+        "image": "cla820gl1s3pr071u2vi94r92.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What color is the abnormality? If more than one separate with ;"
+            },
+            {
+                "from": "gpt",
+                "value": "pink; red; white"
+            }
+        ]
+    },
+    {
+        "id": "cla820gl1s3pr071u2vi94r92",
+        "image": "cla820gl1s3pr071u2vi94r92.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Are there any instruments in the image? Check all that are present."
+            },
+            {
+                "from": "gpt",
+                "value": "none"
+            }
+        ]
+    },
+    {
+        "id": "cla820gl1s3pr071u2vi94r92",
+        "image": "cla820gl1s3pr071u2vi94r92.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Is there text?"
+            },
+            {
+                "from": "gpt",
+                "value": "yes"
+            }
+        ]
+    },
+    {
+        "id": "cla820gl1s3pv071u6kb331te",
+        "image": "cla820gl1s3pv071u6kb331te.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Where in the image is the instrument?"
+            },
+            {
+                "from": "gpt",
+                "value": "none"
+            }
+        ]
+    },
+    {
+        "id": "cla820gl1s3pv071u6kb331te",
+        "image": "cla820gl1s3pv071u6kb331te.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Is this finding easy to detect?"
+            },
+            {
+                "from": "gpt",
+                "value": "yes"
+            }
+        ]
+    },
+    {
+        "id": "cla820gl1s3pv071u6kb331te",
+        "image": "cla820gl1s3pv071u6kb331te.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Where in the image is the anatomical landmark?"
+            },
+            {
+                "from": "gpt",
+                "value": "none"
+            }
+        ]
+    },
+    {
+        "id": "cla820gl1s3pv071u6kb331te",
+        "image": "cla820gl1s3pv071u6kb331te.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Where in the image is the abnormality?"
+            },
+            {
+                "from": "gpt",
+                "value": "center; center-left; center-right; lower-center; lower-right; upper-center; upper-left; upper-right"
+            }
+        ]
+    },
+    {
+        "id": "cla820gl1s3pv071u6kb331te",
+        "image": "cla820gl1s3pv071u6kb331te.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is the size of the polyp?"
+            },
+            {
+                "from": "gpt",
+                "value": "none"
+            }
+        ]
+    },
+    {
+        "id": "cla820gl1s3pv071u6kb331te",
+        "image": "cla820gl1s3pv071u6kb331te.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "How many findings are present?"
+            },
+            {
+                "from": "gpt",
+                "value": "1"
+            }
+        ]
+    },
+    {
+        "id": "cla820gl1s3pv071u6kb331te",
+        "image": "cla820gl1s3pv071u6kb331te.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "How many polyps are in the image?"
+            },
+            {
+                "from": "gpt",
+                "value": "0"
+            }
+        ]
+    },
+    {
+        "id": "cla820gl1s3pv071u6kb331te",
+        "image": "cla820gl1s3pv071u6kb331te.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Is there text?"
+            },
+            {
+                "from": "gpt",
+                "value": "no"
+            }
+        ]
+    },
+    {
+        "id": "cla820gl1s3pv071u6kb331te",
+        "image": "cla820gl1s3pv071u6kb331te.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What color is the abnormality? If more than one separate with ;"
+            },
+            {
+                "from": "gpt",
+                "value": "pink; red"
+            }
+        ]
+    },
+    {
+        "id": "cla820gl1s3pv071u6kb331te",
+        "image": "cla820gl1s3pv071u6kb331te.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Are there any abnormalities in the image? Check all that are present."
+            },
+            {
+                "from": "gpt",
+                "value": "ulcerative colitis"
+            }
+        ]
+    },
+    {
+        "id": "cla820gl1s3pv071u6kb331te",
+        "image": "cla820gl1s3pv071u6kb331te.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What type of polyp is present?"
+            },
+            {
+                "from": "gpt",
+                "value": "none"
+            }
+        ]
+    },
+    {
+        "id": "cla820gl1s3pv071u6kb331te",
+        "image": "cla820gl1s3pv071u6kb331te.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Are there any anatomical landmarks in the image? Check all that are present."
+            },
+            {
+                "from": "gpt",
+                "value": "none"
+            }
+        ]
+    },
+    {
+        "id": "cla820gl1s3pv071u6kb331te",
+        "image": "cla820gl1s3pv071u6kb331te.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Are there any instruments in the image? Check all that are present."
+            },
+            {
+                "from": "gpt",
+                "value": "none"
+            }
+        ]
+    },
+    {
+        "id": "cla820gl1s3pv071u6kb331te",
+        "image": "cla820gl1s3pv071u6kb331te.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What type of procedure is the image taken from?"
+            },
+            {
+                "from": "gpt",
+                "value": "colonoscopy"
+            }
+        ]
+    },
+    {
+        "id": "cla820gl1s3pv071u6kb331te",
+        "image": "cla820gl1s3pv071u6kb331te.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "How many instrumnets are in the image?"
+            },
+            {
+                "from": "gpt",
+                "value": "0"
+            }
+        ]
+    },
+    {
+        "id": "cla820gl1s3pv071u6kb331te",
+        "image": "cla820gl1s3pv071u6kb331te.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Have all polyps been removed?"
+            },
+            {
+                "from": "gpt",
+                "value": "not relevant"
+            }
+        ]
+    }
+]
