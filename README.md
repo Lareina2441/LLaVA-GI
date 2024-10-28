@@ -12,10 +12,6 @@ If you have problems, I may able not fix them because I am still learning this k
 
 The dataset is here: https://huggingface.co/datasets/SimulaMet-HOST/Kvasir-VQA
 
-# LLaVA Model Training and Deployment
-
-This project demonstrates the setup, training, and deployment of the LLaVA model using the Kvasir-VQA dataset. The following guide provides step-by-step instructions to replicate the setup.
-
 ---
 
 ## 1. Environment Setup
