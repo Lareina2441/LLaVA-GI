@@ -6,7 +6,9 @@
 
 
 
-Hi, my name is Lareina. As a junior student, this is the first time I train a VLM. Following are the steps and codes I used to do it, just for your reference. If you have problems, I may cannot fix it because I am still learning these knowledge, however I will try me best to help you to solve it. And also, you can refers to https://github.com/haotian-liu/LLaVA for help
+Hi, my name is Lareina. As a junior student, this is the first time I train a VLM. Following are the steps and codes I used to do it, just for your reference. This project depends a lot on this tutorial https://www.youtube.com/watch?v=XICHJx2_Rm8&ab_channel=Brev. Thank you, Brev!
+
+If you have problems, I may cannot fix it because I am still learning these knowledge, however I will try me best to help you to solve it. And also, you can refers to https://github.com/haotian-liu/LLaVA for help
 
 The dataset is here: https://huggingface.co/datasets/SimulaMet-HOST/Kvasir-VQA
 
