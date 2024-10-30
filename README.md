@@ -6,11 +6,17 @@
 
 
 
-Hi, my name is Lareina. As a junior student, this is my first time training a VLM. Following are the steps and codes I used to do it, just for your reference. This project depends a lot on this tutorial https://www.youtube.com/watch?v=XICHJx2_Rm8&ab_channel=Brev. Thank you, Brev!
+Hi, my name is Lareina. 
 
-If you have problems, I may able not fix them because I am still learning this knowledge, however, I will try my best to help you solve them. And also, you can refer to https://github.com/haotian-liu/LLaVA for help
+LLaVA-GI is a custom VLM model, train on Kavsir-VQA dataset that can do VQA task on GI medical questions. Following are the steps and codes I used to do it, just for your reference. This project depends a lot on this tutorial https://www.youtube.com/watch?v=XICHJx2_Rm8&ab_channel=Brev. Thank you, Brev!
+
+If you have problems please raise issues, I will try my best to help you solve them. And also, you can refer to https://github.com/haotian-liu/LLaVA for help
 
 The dataset is here: https://huggingface.co/datasets/SimulaMet-HOST/Kvasir-VQA
+
+# LLaVA Model Training and Deployment
+
+This project demonstrates the setup, training, and deployment of the LLaVA model using the Kvasir-VQA dataset. The following guide provides step-by-step instructions to replicate the setup.
 
 ---
 
@@ -283,12 +289,48 @@ CUDA_VISIBLE_DEVICES=0 python ~/LLaVA/model_vqa.py # change CUDA_VISIBLE_DEVICES
 --model-path ~/LLaVA/fted/llava-ftmodel_1
 --image-folder ~/LLaVA/data/images
 --question-file ~/LLaVA/data/validation/question.jsonl
---answers-file ~/LLaVA/data/validation/answer.jsonl # output file path
+--answers-file ~/LLaVA/data/validation/answer2.jsonl # output file path
 --conv-mode llava_v1
 --num-chunks 1
 --chunk-idx 0
 --temperature 0.3
 --top_p 0.9
+--num_beams 5
+```
+
+---
+
+### Evaluate the baseline model llava
+
+```bash
+CUDA_VISIBLE_DEVICES=3,5,7 python ~/LLaVA/model_vqa.py \
+--model-path liuhaotian/llava-v1.5-13b \
+--image-folder ~/LLaVA/data/images \
+--question-file ~/LLaVA/data/validation/question.jsonl \
+--answers-file ~/LLaVA/data/validation/answer2.jsonl \
+--conv-mode llava_v1 \
+--num-chunks 1 \
+--chunk-idx 0 \
+--temperature 0.3 \
+--top_p 0.9 \
+--num_beams 5
+```
+
+---
+
+## evaluate llava-med
+
+```bash
+CUDA_VISIBLE_DEVICES=2,4,6 python /home/louey/LLaVA/model_vqa.py \
+--model-path /home/louey/LLaVA-Med/llavamed \
+--image-folder /home/louey/LLaVA/data/images \
+--question-file /home/louey/LLaVA/data/validation/question.jsonl \
+--answers-file /home/louey/LLaVA/data/validation/answer3.jsonl \
+--conv-mode llava_v1 \
+--num-chunks 1 \
+--chunk-idx 0 \
+--temperature 0.3 \
+--top_p 0.9 \
 --num_beams 5
 ```
 
@@ -300,3 +342,87 @@ CUDA_VISIBLE_DEVICES=0 python ~/LLaVA/model_vqa.py # change CUDA_VISIBLE_DEVICES
 - For assistance with compatibility issues, refer to official documentation.
 
 ---
+# Collect answers together and compare to human answers
+```python
+import json
+
+# 文件路径
+dataset_path = r'~\LLaVA-GI\data\validation\dataset.json'
+answers_path = r'~\LLaVA-GI\data\validation\answer1.jsonl'
+output_path = r'~\LLaVA-GI\data\validation\output_results.json'
+
+def read_json_file(file_path):
+    try:
+        with open(file_path, 'r', encoding='utf-8') as file:
+            return json.load(file)
+    except json.JSONDecodeError as e:
+        print(f"Error reading JSON file {file_path}: {e}")
+        return None
+
+def read_jsonl_file(file_path):
+    try:
+        with open(file_path, 'r', encoding='utf-8') as file:
+            return [json.loads(line) for line in file]
+    except json.JSONDecodeError as e:
+        print(f"Error reading JSONL file {file_path}: {e}")
+        return None
+
+# 读取数据集文件
+dataset = read_json_file(dataset_path)
+if dataset is None:
+    raise ValueError(f"Failed to read dataset file: {dataset_path}")
+
+# 读取答案文件
+answers = read_jsonl_file(answers_path)
+if answers is None:
+    raise ValueError(f"Failed to read answers file: {answers_path}")
+
+# 创建一个映射，方便查找 machine_answer
+answer_dict = {}
+for entry in answers:
+    key = (entry["question_id"], entry["prompt"])
+    answer_dict[key] = entry["text"]
+
+# 生成输出数据
+output_data = []
+for item in dataset:
+    image_id = item["id"]
+    image = item["image"]
+    
+    for conversation in item["conversations"]:
+        if conversation["from"] == "human":
+            question = conversation["value"]
+            human_answer = next(
+                (conv["value"] for conv in item["conversations"] if conv["from"] == "gpt"), ""
+            )
+            machine_answer = answer_dict.get((image_id, question), "")
+            
+            output_data.append({
+                "image_id": image_id,
+                "image": image,
+                "question": question,
+                "human_answer": human_answer,
+                "machine_answer": machine_answer
+            })
+
+# 保存输出结果到新文件
+with open(output_path, "w", encoding="utf-8") as f:
+    json.dump(output_data, f, ensure_ascii=False, indent=4)
+
+print("匹配完成，结果已保存到", output_path)
+
+
+```
+
+output would be like:
+
+```
+    {
+        "image_id": "cla820gl0s3nv071u4fgd7xgq",
+        "image": "cla820gl0s3nv071u4fgd7xgq.jpg",
+        "question": "What color is the abnormality? If more than one separate with ;",
+        "human_answer": "pink; red",
+        "machine_answer": "pink; red; white"
+    },
+
+```
