@@ -13,6 +13,7 @@ LLaVA-GI is a custom VLM model, train on Kavsir-VQA dataset that can do VQA task
 If you have problems please raise issues, I will try my best to help you solve them. And also, you can refer to https://github.com/haotian-liu/LLaVA for help
 
 The dataset is here: https://huggingface.co/datasets/SimulaMet-HOST/Kvasir-VQA
+The checkpoints are here https://huggingface.co/Lareina2441/LLaVA-GI (still uploading)
 
 # LLaVA Model Training and Deployment
 
