@@ -159,7 +159,7 @@ save_dataset('SimulaMet-HOST/Kvasir-VQA', output_folder)
 It would be like this [dataset.json](data\train\dataset.json)
 
 ### Manual Step
-After preprocessing, manually split 300 samples out of the dataset.json file under the train folder into the validation folder
+After preprocessing, randomly split 10980 samples out of the dataset.json file under the train folder into the validation folder
 (the files should be like:)
 ```
 data
