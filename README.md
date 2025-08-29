@@ -14,7 +14,7 @@ If you have problems please raise issues, I will try my best to help you solve t
 
 The dataset is here: https://huggingface.co/datasets/SimulaMet-HOST/Kvasir-VQA
 
-The checkpoints (merged with LoRA) are here https://huggingface.co/Lareina2441/LLaVA-GI (still uploading)
+The checkpoints (merged with LoRA) are here https://huggingface.co/Lareina2441/LLaVA-GI 
 
 # LLaVA Model Training and Deployment
 
@@ -428,3 +428,4 @@ output would be like:
     },
 
 ```
+
